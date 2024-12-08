@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\dbconnection\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\dbconnection\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\controllers\\reactmuiapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\controllers\\reactmuiapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\services\\reactmuiapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\services\\reactmuiapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\reactmuiwebapiapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\reactmuiwebapiapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\models\\bizresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\models\\bizresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\irepository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\irepository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|c:\\project\\webapplication\\reactmuiwebapiapplication\\models\\findtheminfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86873339-BBC7-480E-8B8D-0B3A1070CA67}|ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj|solutionrelative:reactmuiwebapiapplication\\models\\findtheminfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReactMUIWebAPIApplication",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\ReactMUIWebAPIApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T06:29:54.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReactMuiAPIService.cs",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Services\\ReactMuiAPIService.cs",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\Services\\ReactMuiAPIService.cs",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Services\\ReactMuiAPIService.cs",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\Services\\ReactMuiAPIService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAWwMAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:08:14.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\Program.cs",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Program.cs",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:14:49.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\web.config",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\web.config",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\web.config",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-06T15:50:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FindTheMinFuel.cs",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Models\\FindTheMinFuel.cs",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\Models\\FindTheMinFuel.cs",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Models\\FindTheMinFuel.cs",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\Models\\FindTheMinFuel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:14:59.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BizResult.cs",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Models\\BizResult.cs",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\Models\\BizResult.cs",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Models\\BizResult.cs",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\Models\\BizResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:07:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReactMuiAPIController.cs",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Controllers\\ReactMuiAPIController.cs",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\Controllers\\ReactMuiAPIController.cs",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\Controllers\\ReactMuiAPIController.cs",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\Controllers\\ReactMuiAPIController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAkwJwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:57:01.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\DBConnection\\DBContext.cs",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\DBConnection\\DBContext.cs",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\DBConnection\\DBContext.cs",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\DBConnection\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:22:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\IRepository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "ReactMUIWebAPIApplication\\IRepository\\IDataRepository.cs",
+              "ToolTip": "C:\\Project\\WebApplication\\ReactMUIWebAPIApplication\\IRepository\\IDataRepository.cs",
+              "RelativeToolTip": "ReactMUIWebAPIApplication\\IRepository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:31:09.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

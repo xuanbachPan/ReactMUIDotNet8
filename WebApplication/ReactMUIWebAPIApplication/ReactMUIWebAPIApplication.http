@@ -1,0 +1,6 @@
+@ReactMUIWebAPIApplication_HostAddress = http://localhost:5121
+
+GET {{ReactMUIWebAPIApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

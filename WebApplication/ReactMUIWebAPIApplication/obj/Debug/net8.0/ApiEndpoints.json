@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "ReactMUIWebAPIApplication.Controllers.ReactMuiAPIController",
+    "Method": "FindTheMinFuel",
+    "RelativePath": "api/ReactMuiAPI/FindTheMinFuel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rows",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cols",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pVal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "data",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReactMUIWebAPIApplication.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ReactMUIWebAPIApplication.WeatherForecast, ReactMUIWebAPIApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

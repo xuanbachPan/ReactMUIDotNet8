@@ -1,0 +1,60 @@
+.submitForm
+{
+    width: 50%;
+}
+
+.title{
+    margin: 20px 10px;
+}
+
+.textfield input
+{
+    height: 10px;
+    width: 120px;
+    margin: 0 10px;
+}
+
+.outer-stack
+{
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.outer-map-table, .outer-result-map-table
+{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.Button{
+    margin: 30px 10px;
+}
+
+.tbl-cell, .result-tbl-cell{
+    text-align:right;
+    width: 70px;
+}
+
+.min-value-fuel{
+    width: 100%;
+    min-width: 200px;
+}
+
+.inner-result-map-table{
+    margin: 0 auto;
+}
+
+.route-min-value-fuel{
+    padding-bottom: 1rem;
+}
+
+.border-red{
+    border-color: red;
+}
+
